@@ -13,6 +13,19 @@ No more deciphering hundred‑line error logs, no more editing Dockerfiles by ha
 
 ---
 
+## ⚠️ Disk usage warning
+
+By design, this system **downloads and tests real Python packages** inside Docker.  
+This may result in **high disk usage** (several GB), especially for longer or more complex code snippets.
+
+To free space, you may:
+
+- delete the `.venv/` folder if unused
+- run `docker system prune -a`
+- remove downloaded Ollama models (see below)
+
+---
+
 ## 🛠️  Quick start
 
 ```bash
@@ -69,6 +82,41 @@ python test_executor.py \
 ```
 
 All CLI flags (`-f -m -r -l -i -t ...`) are unchanged from the original tool.
+
+---
+
+## 📦 Using different Ollama models
+
+```bash
+ollama pull phi3:medium
+ollama pull llama3
+```
+
+Then, specify them at the prompt or use the -m flag in CLI mode.
+
+For best results, pick chat-capable models with code reasoning ability.
+(Quantized models like 4b-it-qat are smaller but may miss edge cases.)
+
+---
+
+## 🧯 Troubleshooting
+
+### error: model not found
+Run ollama pull <model> manually to fetch it.
+
+### Docker out of space
+Run docker system prune -a to clean up old containers & images.
+
+### Interactive mode hangs at input
+Ensure you're in a real terminal (not VSCode output panel).
+
+### Python modules not found
+May be falsely inferred (e.g. stdlib like sys, os) — just del them.
+
+Then, specify them at the prompt or use the -m flag in CLI mode.
+
+For best results, pick chat-capable models with code reasoning ability.
+(Quantized models like 4b-it-qat are smaller but may miss edge cases.)
 
 ---
 
