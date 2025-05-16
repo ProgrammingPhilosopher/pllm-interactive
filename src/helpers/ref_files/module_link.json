@@ -1,0 +1,2495 @@
+{
+    "AFQ": {
+        "ref": "pyAFQ"
+    },
+    "AG_fft_tools": {
+        "ref": "agpy"
+    },
+    "Adafruit": {
+        "ref": "Adafruit_Libraries"
+    },
+    "Asterisk": {
+        "ref": "py_Asterisk"
+    },
+    "BB_jekyll_hook": {
+        "ref": "bitbucket_jekyll_hook"
+    },
+    "Banzai": {
+        "ref": "Banzai_NGS"
+    },
+    "BeautifulSoupTests": {
+        "ref": "BeautifulSoup"
+    },
+    "BioSQL": {
+        "ref": "biopython"
+    },
+    "BuildbotStatusShields": {
+        "ref": "BuildbotEightStatusShields"
+    },
+    "Crypto": {
+        "ref": "pycryptodome"
+    },
+    "Cryptodome": {
+        "ref": "pycryptodomex"
+    },
+    "FiftyOneDegrees": {
+        "ref": "51degrees_mobile_detector_v3_wrapper"
+    },
+    "GeoBases": {
+        "ref": "GeoBasesDev"
+    },
+    "IPython": {
+        "ref": "ipython"
+    },
+    "Kittens": {
+        "ref": "astro_kittens"
+    },
+    "Levenshtein": {
+        "ref": "python_Levenshtein"
+    },
+    "MethodObject": {
+        "ref": "ExtensionClass"
+    },
+    "MySQLdb": {
+        "ref": "MySQL-python"
+    },
+    "OpenGL": {
+        "ref": "PyOpenGL"
+    },
+    "OpenSSL": {
+        "ref": "pyOpenSSL"
+    },
+    "PIL": {
+        "ref": "pillow"
+    },
+    "PyWCSTools": {
+        "ref": "astLib"
+    },
+    "Pyxides": {
+        "ref": "astro_pyxis"
+    },
+    "S3": {
+        "ref": "s3cmd"
+    },
+    "SCons": {
+        "ref": "pystick"
+    },
+    "Stemmer": {
+        "ref": "PyStemmer"
+    },
+    "TopZooTools": {
+        "ref": "topzootools"
+    },
+    "TreeDisplay": {
+        "ref": "DocumentTemplate"
+    },
+    "WorkingWithDocumentConversion": {
+        "ref": "aspose_pdf_java_for_python"
+    },
+    "aadb": {
+        "ref": "auto_adjust_display_brightness"
+    },
+    "abakaffe": {
+        "ref": "abakaffe_cli"
+    },
+    "abiosgaming": {
+        "ref": "abiosgaming.py"
+    },
+    "abiquo": {
+        "ref": "abiquo_api"
+    },
+    "abl": {
+        "ref": "abl.cssprocessor"
+    },
+    "abo": {
+        "ref": "abo_generator"
+    },
+    "abris_transform": {
+        "ref": "abris"
+    },
+    "abstract": {
+        "ref": "abstract.jwrotator"
+    },
+    "abu": {
+        "ref": "abu.admin"
+    },
+    "ac_flask": {
+        "ref": "AC_Flask_HipChat"
+    },
+    "acg": {
+        "ref": "anikom15"
+    },
+    "acme": {
+        "ref": "acme.dchat"
+    },
+    "acted": {
+        "ref": "acted.projects"
+    },
+    "action": {
+        "ref": "ActionServer"
+    },
+    "actionbar": {
+        "ref": "actionbar.panel"
+    },
+    "activehomed": {
+        "ref": "afn"
+    },
+    "activepapers": {
+        "ref": "ActivePapers.Py"
+    },
+    "address_book": {
+        "ref": "address_book_lansry"
+    },
+    "adi": {
+        "ref": "adi.commons"
+    },
+    "adict": {
+        "ref": "aDict2"
+    },
+    "aditam": {
+        "ref": "aditam.agent"
+    },
+    "adiumsh": {
+        "ref": "adium_sh"
+    },
+    "adjector": {
+        "ref": "AdjectorClient"
+    },
+    "adkit": {
+        "ref": "Banner_Ad_Toolkit"
+    },
+    "admin_tools": {
+        "ref": "django_admin_tools"
+    },
+    "adminishcategories": {
+        "ref": "adminish_categories"
+    },
+    "adminsortable": {
+        "ref": "django_admin_sortable"
+    },
+    "adspygoogle": {
+        "ref": "adspygoogle.adwords"
+    },
+    "advancedcaching": {
+        "ref": "agtl"
+    },
+    "adytum": {
+        "ref": "Adytum_PyMonitor"
+    },
+    "affinitic": {
+        "ref": "affinitic.docpyflakes"
+    },
+    "afpy": {
+        "ref": "afpy.xap"
+    },
+    "agatesql": {
+        "ref": "agate_sql"
+    },
+    "ageliaco": {
+        "ref": "ageliaco.recipe.csvconfig"
+    },
+    "agent_http": {
+        "ref": "agent.http"
+    },
+    "agora": {
+        "ref": "Agora_Client"
+    },
+    "agoraplex": {
+        "ref": "agoraplex.themes.sphinx"
+    },
+    "agsci": {
+        "ref": "agsci.blognewsletter"
+    },
+    "agx": {
+        "ref": "agx.core"
+    },
+    "aimes": {
+        "ref": "aimes.bundle"
+    },
+    "aio": {
+        "ref": "aio.app"
+    },
+    "aiohs2": {
+        "ref": "aio_hs2"
+    },
+    "aioroutes": {
+        "ref": "aio_routes"
+    },
+    "aios3": {
+        "ref": "aio_s3"
+    },
+    "airbrake": {
+        "ref": "airbrake_flask"
+    },
+    "airship": {
+        "ref": "airship_icloud"
+    },
+    "akamai": {
+        "ref": "edgegrid_python"
+    },
+    "alation": {
+        "ref": "alation_api"
+    },
+    "alba_client": {
+        "ref": "alba_client_python"
+    },
+    "alburnum": {
+        "ref": "alburnum_maas_client"
+    },
+    "alchemist": {
+        "ref": "alchemist.audit"
+    },
+    "alchemyapi": {
+        "ref": "alchemyapi_python"
+    },
+    "alerta": {
+        "ref": "alerta_server"
+    },
+    "alexandria_upload": {
+        "ref": "Alexandria_Upload_Utils"
+    },
+    "alibaba": {
+        "ref": "alibaba_python_sdk"
+    },
+    "aliyun": {
+        "ref": "aliyun_python_sdk"
+    },
+    "aliyuncli": {
+        "ref": "alicloudcli"
+    },
+    "aliyunsdkacs": {
+        "ref": "aliyun_python_sdk_acs"
+    },
+    "aliyunsdkbatchcompute": {
+        "ref": "aliyun_python_sdk_batchcompute"
+    },
+    "aliyunsdkbsn": {
+        "ref": "aliyun_python_sdk_bsn"
+    },
+    "aliyunsdkbss": {
+        "ref": "aliyun_python_sdk_bss"
+    },
+    "aliyunsdkcdn": {
+        "ref": "aliyun_python_sdk_cdn"
+    },
+    "aliyunsdkcms": {
+        "ref": "aliyun_python_sdk_cms"
+    },
+    "aliyunsdkcore": {
+        "ref": "aliyun_python_sdk_core"
+    },
+    "aliyunsdkcrm": {
+        "ref": "aliyun_python_sdk_crm"
+    },
+    "aliyunsdkcs": {
+        "ref": "aliyun_python_sdk_cs"
+    },
+    "aliyunsdkdrds": {
+        "ref": "aliyun_python_sdk_drds"
+    },
+    "aliyunsdkecs": {
+        "ref": "aliyun_python_sdk_ecs"
+    },
+    "aliyunsdkess": {
+        "ref": "aliyun_python_sdk_ess"
+    },
+    "aliyunsdkft": {
+        "ref": "aliyun_python_sdk_ft"
+    },
+    "aliyunsdkmts": {
+        "ref": "aliyun_python_sdk_mts"
+    },
+    "aliyunsdkocs": {
+        "ref": "aliyun_python_sdk_ocs"
+    },
+    "aliyunsdkoms": {
+        "ref": "aliyun_python_sdk_oms"
+    },
+    "aliyunsdkossadmin": {
+        "ref": "aliyun_python_sdk_ossadmin"
+    },
+    "aliyunsdkr-kvstore": {
+        "ref": "aliyun_python_sdk_r_kvstore"
+    },
+    "aliyunsdkram": {
+        "ref": "aliyun_python_sdk_ram"
+    },
+    "aliyunsdkrds": {
+        "ref": "aliyun_python_sdk_rds"
+    },
+    "aliyunsdkrisk": {
+        "ref": "aliyun_python_sdk_risk"
+    },
+    "aliyunsdkros": {
+        "ref": "aliyun_python_sdk_ros"
+    },
+    "aliyunsdkslb": {
+        "ref": "aliyun_python_sdk_slb"
+    },
+    "aliyunsdksts": {
+        "ref": "aliyun_python_sdk_sts"
+    },
+    "aliyunsdkubsms": {
+        "ref": "aliyun_python_sdk_ubsms"
+    },
+    "aliyunsdkyundun": {
+        "ref": "aliyun_python_sdk_yundun"
+    },
+    "allattachments": {
+        "ref": "AllAttachmentsMacro"
+    },
+    "allocine": {
+        "ref": "allocine_wrapper"
+    },
+    "allowedsites": {
+        "ref": "django_allowedsites"
+    },
+    "alm": {
+        "ref": "alm.solrindex"
+    },
+    "aloft": {
+        "ref": "aloft.py"
+    },
+    "alpacalib": {
+        "ref": "alpaca"
+    },
+    "alphabetic": {
+        "ref": "alphabetic_simple"
+    },
+    "alphasms": {
+        "ref": "alphasms_client"
+    },
+    "altered": {
+        "ref": "altered.states"
+    },
+    "alterootheme": {
+        "ref": "alterootheme.busycity"
+    },
+    "alurinium": {
+        "ref": "alurinium_image_processing"
+    },
+    "alxlib": {
+        "ref": "alx"
+    },
+    "amara3": {
+        "ref": "amara3_iri"
+    },
+    "amazon": {
+        "ref": "AmazonAPIWrapper"
+    },
+    "ambikesh1349-1": {
+        "ref": "ambikesh1349_1"
+    },
+    "ambilight": {
+        "ref": "AmbilightParty"
+    },
+    "amifs": {
+        "ref": "amifs_core"
+    },
+    "amiorganizer": {
+        "ref": "ami_organizer"
+    },
+    "amitu": {
+        "ref": "amitu.lipy"
+    },
+    "amltlearn": {
+        "ref": "AMLT_learn"
+    },
+    "amocrm": {
+        "ref": "amocrm_api"
+    },
+    "amqpdispatcher": {
+        "ref": "amqp_dispatcher"
+    },
+    "amqpstorm": {
+        "ref": "AMQP_Storm"
+    },
+    "analytics": {
+        "ref": "analytics_python"
+    },
+    "analyzedir": {
+        "ref": "AnalyzeDirectory"
+    },
+    "ancientsolutions": {
+        "ref": "ancientsolutions_crypttools"
+    },
+    "anderson_paginator": {
+        "ref": "anderson.paginator"
+    },
+    "android_clean_app": {
+        "ref": "android_resource_remover"
+    },
+    "anel_power_control": {
+        "ref": "AnelPowerControl"
+    },
+    "angus": {
+        "ref": "angus_sdk_python"
+    },
+    "annalist_root": {
+        "ref": "Annalist"
+    },
+    "annogesiclib": {
+        "ref": "ANNOgesic"
+    },
+    "ansible-role-apply": {
+        "ref": "ansible_role_apply"
+    },
+    "ansibledebugger": {
+        "ref": "ansible_playbook_debugger"
+    },
+    "ansibledocgen": {
+        "ref": "ansible_docgen"
+    },
+    "ansibleflow": {
+        "ref": "ansible_flow"
+    },
+    "ansibleinventorygrapher": {
+        "ref": "ansible_inventory_grapher"
+    },
+    "ansiblelint": {
+        "ref": "ansible_lint"
+    },
+    "ansiblerolesgraph": {
+        "ref": "ansible_roles_graph"
+    },
+    "ansibletools": {
+        "ref": "ansible_tools"
+    },
+    "anthill": {
+        "ref": "anthill.exampletheme"
+    },
+    "anthrax": {
+        "ref": "AnthraxDojoFrontend"
+    },
+    "antisphinx": {
+        "ref": "antiweb"
+    },
+    "antispoofing": {
+        "ref": "antispoofing.evaluation"
+    },
+    "antlr4": {
+        "ref": "antlr4_python2_runtime"
+    },
+    "anybox": {
+        "ref": "anybox.buildbot.openerp"
+    },
+    "apiclient": {
+        "ref": "google-api-python-client"
+    },
+    "apitools": {
+        "ref": "google_apitools"
+    },
+    "apm": {
+        "ref": "arpm"
+    },
+    "app_data": {
+        "ref": "django_appdata"
+    },
+    "appconf": {
+        "ref": "django_appconf"
+    },
+    "appd": {
+        "ref": "AppDynamicsDownloader"
+    },
+    "appdynamics_bindeps": {
+        "ref": "appdynamics_bindeps_linux_x64"
+    },
+    "appdynamics_proxysupport": {
+        "ref": "appdynamics_proxysupport_linux_x64"
+    },
+    "appium": {
+        "ref": "Appium_Python_Client"
+    },
+    "appliapps": {
+        "ref": "applibase"
+    },
+    "appserver": {
+        "ref": "broadwick"
+    },
+    "archetypes": {
+        "ref": "archetypes.kss"
+    },
+    "arcpy": {
+        "ref": "arcgispro-py3"
+    },
+    "arm": {
+        "ref": "ansible_role_manager"
+    },
+    "armor": {
+        "ref": "armor_api"
+    },
+    "armstrong": {
+        "ref": "armstrong.apps.related_content"
+    },
+    "arstecnica": {
+        "ref": "arstecnica.raccoon.autobahn"
+    },
+    "article-downloader": {
+        "ref": "article_downloader"
+    },
+    "artifactcli": {
+        "ref": "artifact_cli"
+    },
+    "arvados": {
+        "ref": "arvados_python_client"
+    },
+    "arvados_cwl": {
+        "ref": "arvados_cwl_runner"
+    },
+    "arvnodeman": {
+        "ref": "arvados_node_manager"
+    },
+    "asana_to_github": {
+        "ref": "AsanaToGithub"
+    },
+    "asciibinary": {
+        "ref": "AsciiBinaryConverter"
+    },
+    "asd": {
+        "ref": "AdvancedSearchDiscovery"
+    },
+    "askbot": {
+        "ref": "askbot_tuan"
+    },
+    "asnhistory": {
+        "ref": "asnhistory_redis"
+    },
+    "aspen_jinja2_renderer": {
+        "ref": "aspen_jinja2"
+    },
+    "aspen_tornado_engine": {
+        "ref": "aspen_tornado"
+    },
+    "asprise_ocr_api": {
+        "ref": "asprise_ocr_sdk_python_api"
+    },
+    "aspy": {
+        "ref": "aspy.refactor_imports"
+    },
+    "asterisk": {
+        "ref": "asterisk_ami"
+    },
+    "asts": {
+        "ref": "add_asts"
+    },
+    "asymmetricbase": {
+        "ref": "asymmetricbase.enum"
+    },
+    "asyncirc": {
+        "ref": "asyncio_irc"
+    },
+    "asyncmongoorm": {
+        "ref": "asyncmongoorm_je"
+    },
+    "asyncssh": {
+        "ref": "asyncssh_unofficial"
+    },
+    "athletelist": {
+        "ref": "athletelistyy"
+    },
+    "atm": {
+        "ref": "automium"
+    },
+    "atmosphere": {
+        "ref": "atmosphere_python_client"
+    },
+    "atom": {
+        "ref": "gdata"
+    },
+    "atomic": {
+        "ref": "AtomicWrite"
+    },
+    "atomisator": {
+        "ref": "atomisator.db"
+    },
+    "atreal": {
+        "ref": "atreal.cmfeditions.unlocker"
+    },
+    "atsim": {
+        "ref": "atsim.potentials"
+    },
+    "attr": {
+        "ref": "attrs"
+    },
+    "attractsdk": {
+        "ref": "attract_sdk"
+    },
+    "audio": {
+        "ref": "audio.bitstream"
+    },
+    "aufrefer": {
+        "ref": "auf_refer"
+    },
+    "auslfe": {
+        "ref": "auslfe.formonline.content"
+    },
+    "auspost": {
+        "ref": "auspost_apis"
+    },
+    "auth0": {
+        "ref": "auth0_python"
+    },
+    "auth_server_client": {
+        "ref": "AuthServerClient"
+    },
+    "authorize": {
+        "ref": "AuthorizeSauce"
+    },
+    "authzpolicy": {
+        "ref": "AuthzPolicyPlugin"
+    },
+    "autobahn": {
+        "ref": "autobahn_rce"
+    },
+    "avahi-python": {
+        "ref": "python-avahi"
+    },
+    "avatar": {
+        "ref": "geonode_avatar"
+    },
+    "awebview": {
+        "ref": "android_webview"
+    },
+    "azure": {
+        "ref": "azure_common"
+    },
+    "azure-mgmt-azure": {
+        "ref": "azure-mgmt"
+    },
+    "b2gcommands": {
+        "ref": "b2g_commands"
+    },
+    "b2gperf": {
+        "ref": "b2gperf_v1.3"
+    },
+    "b2gpopulate": {
+        "ref": "b2gpopulate_v1.3"
+    },
+    "b3j0f": {
+        "ref": "b3j0f.annotation"
+    },
+    "babel": {
+        "ref": "Babel"
+    },
+    "babelglade": {
+        "ref": "BabelGladeExtractor"
+    },
+    "backplane": {
+        "ref": "backplane2_pyclient"
+    },
+    "backport_abcoll": {
+        "ref": "backport_collections"
+    },
+    "backports": {
+        "ref": "backports.functools_lru_cache"
+    },
+    "badgekit": {
+        "ref": "badgekit_api_client"
+    },
+    "badlinks": {
+        "ref": "BadLinksPlugin"
+    },
+    "bael": {
+        "ref": "bael.project"
+    },
+    "baidu": {
+        "ref": "baidupy"
+    },
+    "balrog": {
+        "ref": "buildtools"
+    },
+    "baluhn": {
+        "ref": "baluhn_redux"
+    },
+    "bamboo": {
+        "ref": "bamboo.pantrybell"
+    },
+    "bambu": {
+        "ref": "bambu_codemirror"
+    },
+    "banana": {
+        "ref": "Bananas"
+    },
+    "bang": {
+        "ref": "bangtext"
+    },
+    "barcode": {
+        "ref": "barcode_generator"
+    },
+    "bark": {
+        "ref": "bark_ssg"
+    },
+    "barking_owl": {
+        "ref": "BarkingOwl"
+    },
+    "bart": {
+        "ref": "bart_py"
+    },
+    "basalt": {
+        "ref": "basalt_tasks"
+    },
+    "base62": {
+        "ref": "base_62"
+    },
+    "basemap": {
+        "ref": "basemap_Jim"
+    },
+    "bash": {
+        "ref": "bash_toolbelt"
+    },
+    "bashutils": {
+        "ref": "Python_Bash_Utils"
+    },
+    "basic_http": {
+        "ref": "BasicHttp"
+    },
+    "basil": {
+        "ref": "basil_daq"
+    },
+    "batchapps": {
+        "ref": "azure_batch_apps"
+    },
+    "bcc": {
+        "ref": "bcc-python"
+    },
+    "bcrypt": {
+        "ref": "python_bcrypt"
+    },
+    "beaker": {
+        "ref": "Beaker"
+    },
+    "beetsplug": {
+        "ref": "beets"
+    },
+    "begin": {
+        "ref": "begins"
+    },
+    "benchit": {
+        "ref": "bench_it"
+    },
+    "beproud": {
+        "ref": "beproud.utils"
+    },
+    "bfillings": {
+        "ref": "burrito_fillings"
+    },
+    "bigquery": {
+        "ref": "google-cloud-bigquery"
+    },
+    "billboard": {
+        "ref": "billboard.py"
+    },
+    "binstar_build_client": {
+        "ref": "anaconda_build"
+    },
+    "binstar_client": {
+        "ref": "anaconda_client"
+    },
+    "bio": {
+        "ref": "biopython"
+    },
+    "biocommons": {
+        "ref": "biocommons.dev"
+    },
+    "birdhousebuilder": {
+        "ref": "birdhousebuilder.recipe.conda"
+    },
+    "blender26-meshio": {
+        "ref": "pymeshio"
+    },
+    "borg": {
+        "ref": "borg.localrole"
+    },
+    "bow": {
+        "ref": "bagofwords"
+    },
+    "bpdb": {
+        "ref": "bpython"
+    },
+    "bqapi": {
+        "ref": "bisque_api"
+    },
+    "braces": {
+        "ref": "django_braces"
+    },
+    "briefscaster": {
+        "ref": "briefs_caster"
+    },
+    "brisa_media_server/plugins": {
+        "ref": "brisa_media_server_plugins"
+    },
+    "brkt_requests": {
+        "ref": "brkt_sdk"
+    },
+    "broadcastlogging": {
+        "ref": "broadcast_logging"
+    },
+    "brocadetool": {
+        "ref": "brocade_tool"
+    },
+    "bronto": {
+        "ref": "bronto_python"
+    },
+    "brownie": {
+        "ref": "Brownie"
+    },
+    "browsermobproxy": {
+        "ref": "browsermob_proxy"
+    },
+    "brubeckmysql": {
+        "ref": "brubeck_mysql"
+    },
+    "brubeckoauth": {
+        "ref": "brubeck_oauth"
+    },
+    "brubeckservice": {
+        "ref": "brubeck_service"
+    },
+    "brubeckuploader": {
+        "ref": "brubeck_uploader"
+    },
+    "bs4": {
+        "ref": "beautifulsoup4"
+    },
+    "bst": {
+        "ref": "bst.pygasus.core"
+    },
+    "btable": {
+        "ref": "btable_py"
+    },
+    "btapi": {
+        "ref": "bananatag_api"
+    },
+    "btceapi": {
+        "ref": "btce_api"
+    },
+    "btcebot": {
+        "ref": "btce_bot"
+    },
+    "btsync": {
+        "ref": "btsync.py"
+    },
+    "buck": {
+        "ref": "buck.pprint"
+    },
+    "bud": {
+        "ref": "bud.nospam"
+    },
+    "budy": {
+        "ref": "budy_api"
+    },
+    "buffer": {
+        "ref": "buffer_alpaca"
+    },
+    "buggd": {
+        "ref": "bug.gd"
+    },
+    "bugle": {
+        "ref": "bugle_sites"
+    },
+    "bugspots": {
+        "ref": "bug_spots"
+    },
+    "bugzilla": {
+        "ref": "python_bugzilla"
+    },
+    "bugzscout": {
+        "ref": "bugzscout_py"
+    },
+    "buildTools": {
+        "ref": "ajk_ios_buildTools"
+    },
+    "buildnotifylib": {
+        "ref": "BuildNotify"
+    },
+    "buildout": {
+        "ref": "buildout.bootstrap"
+    },
+    "buildslave": {
+        "ref": "buildbot_slave"
+    },
+    "bumper": {
+        "ref": "bumper_lib"
+    },
+    "bumple": {
+        "ref": "bumple_downloader"
+    },
+    "bundesliga": {
+        "ref": "bundesliga_cli"
+    },
+    "bundlemaker": {
+        "ref": "bundlemanager"
+    },
+    "burpui": {
+        "ref": "burp_ui"
+    },
+    "busyflow": {
+        "ref": "busyflow.pivotal"
+    },
+    "buttercms-django": {
+        "ref": "buttercms_django"
+    },
+    "buzz": {
+        "ref": "buzz_python_client"
+    },
+    "bvc": {
+        "ref": "buildout_versions_checker"
+    },
+    "bvggrabber": {
+        "ref": "bvg_grabber"
+    },
+    "byond": {
+        "ref": "BYONDTools"
+    },
+    "bzETL": {
+        "ref": "Bugzilla_ETL"
+    },
+    "bzlib": {
+        "ref": "bugzillatools"
+    },
+    "bzrlib": {
+        "ref": "bzr"
+    },
+    "c2c": {
+        "ref": "c2c.cssmin"
+    },
+    "c2c_recipe_facts": {
+        "ref": "c2c.recipe.facts"
+    },
+    "c4d": {
+        "ref": "c4ddev"
+    },
+    "cabalgata": {
+        "ref": "cabalgata_silla_de_montar"
+    },
+    "cache_utils": {
+        "ref": "django_cache_utils"
+    },
+    "captcha": {
+        "ref": "django_recaptcha"
+    },
+    "carbon3d": {
+        "ref": "carbon3d-client"
+    },
+    "cartridge": {
+        "ref": "Cartridge"
+    },
+    "cassandra": {
+        "ref": "cassandra_driver"
+    },
+    "cassandralauncher": {
+        "ref": "CassandraLauncher"
+    },
+    "cc42": {
+        "ref": "42qucc"
+    },
+    "cerberus": {
+        "ref": "Cerberus"
+    },
+    "cfnlint": {
+        "ref": "cfn-lint"
+    },
+    "chameleon": {
+        "ref": "Chameleon"
+    },
+    "charmtools": {
+        "ref": "charm_tools"
+    },
+    "chef": {
+        "ref": "PyChef"
+    },
+    "chess": {
+        "ref": "python-chess"
+    },
+    "chip8": {
+        "ref": "c8d"
+    },
+    "cjson": {
+        "ref": "python-cjson"
+    },
+    "classytags": {
+        "ref": "django_classy_tags"
+    },
+    "cloghandler": {
+        "ref": "ConcurrentLogHandler"
+    },
+    "clonevirtualenv": {
+        "ref": "virtualenv_clone"
+    },
+    "cloud-insight": {
+        "ref": "al_cloudinsight"
+    },
+    "cloud_admin": {
+        "ref": "adminapi"
+    },
+    "cloudservers": {
+        "ref": "python_cloudservers"
+    },
+    "cms": {
+        "ref": "django-cms"
+    },
+    "cocoa": {
+        "ref": "pycocoa"
+    },
+    "colander": {
+        "ref": "ba_colander"
+    },
+    "colors": {
+        "ref": "ansicolors"
+    },
+    "compile": {
+        "ref": "bf_lc3"
+    },
+    "compose": {
+        "ref": "docker_compose"
+    },
+    "compressor": {
+        "ref": "django-compressor"
+    },
+    "concurrent": {
+        "ref": "futures"
+    },
+    "configargparse": {
+        "ref": "ConfigArgParse"
+    },
+    "console": {
+        "ref": "webvirtmgr"
+    },
+    "contracts": {
+        "ref": "PyContracts"
+    },
+    "couchapp": {
+        "ref": "Couchapp"
+    },
+    "couchdb": {
+        "ref": "CouchDB"
+    },
+    "couchdbcurl": {
+        "ref": "couchdb_python_curl"
+    },
+    "courseradownloader": {
+        "ref": "coursera_dl"
+    },
+    "cow": {
+        "ref": "cow_framework"
+    },
+    "creole": {
+        "ref": "python_creole"
+    },
+    "creoleparser": {
+        "ref": "Creoleparser"
+    },
+    "crispy_forms": {
+        "ref": "django_crispy_forms"
+    },
+    "crontab": {
+        "ref": "python_crontab"
+    },
+    "crypto": {
+        "ref": "pycryptodome"
+    },
+    "cryptodome": {
+        "ref": "pycryptodomex"
+    },
+    "ctff": {
+        "ref": "tff"
+    },
+    "cups": {
+        "ref": "pycups"
+    },
+    "curator": {
+        "ref": "elasticsearch_curator"
+    },
+    "curl": {
+        "ref": "pycurl"
+    },
+    "cv2": {
+        "ref": "opencv-python"
+    },
+    "daemon": {
+        "ref": "python-daemon"
+    },
+    "dare": {
+        "ref": "DARE"
+    },
+    "dateutil": {
+        "ref": "python-dateutil"
+    },
+    "dawg": {
+        "ref": "DAWG"
+    },
+    "debian": {
+        "ref": "python_debian"
+    },
+    "debug_toolbar": {
+        "ref": "django-debug-toolbar"
+    },
+    "decouple": {
+        "ref": "python-decouple"
+    },
+    "demo": {
+        "ref": "webunit"
+    },
+    "deployer": {
+        "ref": "juju_deployer"
+    },
+    "depot": {
+        "ref": "filedepot"
+    },
+    "devtools": {
+        "ref": "tg.devtools"
+    },
+    "dgis": {
+        "ref": "2gis"
+    },
+    "dhtmlparser": {
+        "ref": "pyDHTMLParser"
+    },
+    "digitalocean": {
+        "ref": "python_digitalocean"
+    },
+    "discord": {
+        "ref": "discord.py"
+    },
+    "distribute_setup": {
+        "ref": "ez_setup"
+    },
+    "distutils2": {
+        "ref": "Distutils2"
+    },
+    "django": {
+        "ref": "Django"
+    },
+    "django_hstore": {
+        "ref": "amitu_hstore"
+    },
+    "djangobower": {
+        "ref": "django_bower"
+    },
+    "djcelery": {
+        "ref": "django_celery"
+    },
+    "djkombu": {
+        "ref": "django_kombu"
+    },
+    "djorm_pgarray": {
+        "ref": "djorm_ext_pgarray"
+    },
+    "dmenu": {
+        "ref": "dmenu-run"
+    },
+    "dns": {
+        "ref": "dnspython3"
+    },
+    "docgen": {
+        "ref": "ansible_docgenerator"
+    },
+    "docker": {
+        "ref": "docker_py"
+    },
+    "docx": {
+        "ref": "python-docx"
+    },
+    "dogpile": {
+        "ref": "dogpile.cache"
+    },
+    "dogshell": {
+        "ref": "dogapi"
+    },
+    "dot_parser": {
+        "ref": "pydot"
+    },
+    "dotenv": {
+        "ref": "python-dotenv"
+    },
+    "dpkt": {
+        "ref": "dpkt_fix"
+    },
+    "durationfield": {
+        "ref": "django_durationfield"
+    },
+    "dzclient": {
+        "ref": "datazilla"
+    },
+    "easybuild": {
+        "ref": "easybuild_framework"
+    },
+    "editor": {
+        "ref": "python-editor"
+    },
+    "elasticluster": {
+        "ref": "azure_elasticluster"
+    },
+    "elementtree": {
+        "ref": "citelementtree"
+    },
+    "elftools": {
+        "ref": "pyelftools"
+    },
+    "elixir": {
+        "ref": "Elixir"
+    },
+    "emlib": {
+        "ref": "empy"
+    },
+    "enchant": {
+        "ref": "pyenchant"
+    },
+    "encutils": {
+        "ref": "cssutils"
+    },
+    "engineio": {
+        "ref": "python_engineio"
+    },
+    "enum": {
+        "ref": "enum34"
+    },
+    "ephem": {
+        "ref": "pyephem"
+    },
+    "errorreporter": {
+        "ref": "abl.errorreporter"
+    },
+    "esplot": {
+        "ref": "beaker_es_plot"
+    },
+    "example": {
+        "ref": "adrest"
+    },
+    "examples": {
+        "ref": "tweepy"
+    },
+    "ez_setup": {
+        "ref": "pycassa"
+    },
+    "fabric": {
+        "ref": "Fabric"
+    },
+    "faker": {
+        "ref": "Faker"
+    },
+    "fedora": {
+        "ref": "python_fedora"
+    },
+    "ffmpeg": {
+        "ref": "python-ffmpeg"
+    },
+    "fias": {
+        "ref": "ailove_django_fias"
+    },
+    "fiftyone_degrees": {
+        "ref": "51degrees_mobile_detector"
+    },
+    "five": {
+        "ref": "five.customerize"
+    },
+    "flasher": {
+        "ref": "android_flasher"
+    },
+    "flask": {
+        "ref": "Flask"
+    },
+    "flask_admin": {
+        "ref": "flask-admin"
+    },
+    "flask_frozen": {
+        "ref": "Frozen_Flask"
+    },
+    "flask_redis": {
+        "ref": "Flask_And_Redis"
+    },
+    "flask_restful": {
+        "ref": "flask-restful"
+    },
+    "flask_restplus": {
+        "ref": "flask-restplus"
+    },
+    "flask_script": {
+        "ref": "flask-script"
+    },
+    "flask_sqlalchemy": {
+        "ref": "flask-sqlalchemy"
+    },
+    "flask_wtf": {
+        "ref": "flask-wtf"
+    },
+    "flaskext": {
+        "ref": "Flask_Bcrypt"
+    },
+    "flvscreen": {
+        "ref": "vnc2flv"
+    },
+    "followit": {
+        "ref": "django_followit"
+    },
+    "forge": {
+        "ref": "pyforge"
+    },
+    "formencode": {
+        "ref": "FormEncode"
+    },
+    "formtools": {
+        "ref": "django_formtools"
+    },
+    "fourch": {
+        "ref": "4ch"
+    },
+    "franz": {
+        "ref": "allegrordf"
+    },
+    "freetype": {
+        "ref": "freetype-py"
+    },
+    "frontmatter": {
+        "ref": "python_frontmatter"
+    },
+    "ftpcloudfs": {
+        "ref": "ftp_cloudfs"
+    },
+    "functional": {
+        "ref": "pyfunctional"
+    },
+    "funtests": {
+        "ref": "librabbitmq"
+    },
+    "fuse": {
+        "ref": "fusepy"
+    },
+    "fuzzy": {
+        "ref": "Fuzzy"
+    },
+    "gabbi": {
+        "ref": "tiddlyweb"
+    },
+    "gen_3dwallet": {
+        "ref": "3d_wallet_generator"
+    },
+    "gendimen": {
+        "ref": "android_gendimen"
+    },
+    "generic": {
+        "ref": "pygeneric"
+    },
+    "genshi": {
+        "ref": "Genshi"
+    },
+    "geonode": {
+        "ref": "GeoNode"
+    },
+    "geoserver": {
+        "ref": "gsconfig"
+    },
+    "geraldo": {
+        "ref": "Geraldo"
+    },
+    "getenv": {
+        "ref": "django_getenv"
+    },
+    "geventwebsocket": {
+        "ref": "gevent_websocket"
+    },
+    "gflags": {
+        "ref": "python_gflags"
+    },
+    "gi": {
+        "ref": "pygobject"
+    },
+    "git": {
+        "ref": "gitpython"
+    },
+    "github": {
+        "ref": "pygithub"
+    },
+    "github3": {
+        "ref": "github3.py"
+    },
+    "gitpy": {
+        "ref": "git_py"
+    },
+    "globusonline": {
+        "ref": "globusonline_transfer_api_client"
+    },
+    "google": {
+        "ref": "protobuf"
+    },
+    "googleapiclient": {
+        "ref": "google-api-python-client"
+    },
+    "grace-dizmo": {
+        "ref": "grace_dizmo"
+    },
+    "grammar": {
+        "ref": "anovelmous_grammar"
+    },
+    "grapheneapi": {
+        "ref": "graphenelib"
+    },
+    "graphite": {
+        "ref": "graphite-web"
+    },
+    "greplin": {
+        "ref": "scales"
+    },
+    "gridfs": {
+        "ref": "pymongo"
+    },
+    "grokcore": {
+        "ref": "grokcore.component"
+    },
+    "gslib": {
+        "ref": "gsutil"
+    },
+    "guardian": {
+        "ref": "django-guardian"
+    },
+    "hamcrest": {
+        "ref": "PyHamcrest"
+    },
+    "harpy": {
+        "ref": "HARPy"
+    },
+    "hawk": {
+        "ref": "PyHawk_with_a_single_extra_commit"
+    },
+    "haystack": {
+        "ref": "django-haystack"
+    },
+    "hgext": {
+        "ref": "mercurial"
+    },
+    "hggit": {
+        "ref": "hg_git"
+    },
+    "hglib": {
+        "ref": "python_hglib"
+    },
+    "hola": {
+        "ref": "amarokHola"
+    },
+    "hoover": {
+        "ref": "Hoover"
+    },
+    "hostlist": {
+        "ref": "python_hostlist"
+    },
+    "htmloutput": {
+        "ref": "nosehtmloutput"
+    },
+    "hvad": {
+        "ref": "django_hvad"
+    },
+    "hydra": {
+        "ref": "hydra-core"
+    },
+    "i3": {
+        "ref": "i3-py"
+    },
+    "i99fix": {
+        "ref": "199Fix"
+    },
+    "ib": {
+        "ref": "ibpy2"
+    },
+    "igraph": {
+        "ref": "python_igraph"
+    },
+    "imagekit": {
+        "ref": "django-imagekit"
+    },
+    "imdb": {
+        "ref": "IMDbPY"
+    },
+    "impala": {
+        "ref": "impyla"
+    },
+    "inmemorystorage": {
+        "ref": "ambition_inmemorystorage"
+    },
+    "ipaddress": {
+        "ref": "backport_ipaddress"
+    },
+    "jaraco": {
+        "ref": "jaraco.timing"
+    },
+    "jinja2": {
+        "ref": "Jinja2"
+    },
+    "jiracli": {
+        "ref": "jira_cli"
+    },
+    "jnius": {
+        "ref": "pyjnius"
+    },
+    "johnny": {
+        "ref": "johnny_cache"
+    },
+    "jose": {
+        "ref": "python-jose"
+    },
+    "jpypex": {
+        "ref": "JPype1"
+    },
+    "jsonfield": {
+        "ref": "django_jsonfield"
+    },
+    "jstools": {
+        "ref": "aino_jstools"
+    },
+    "jupyterpip": {
+        "ref": "jupyter_pip"
+    },
+    "jwt": {
+        "ref": "PyJWT"
+    },
+    "kazoo": {
+        "ref": "asana_kazoo"
+    },
+    "kernprof": {
+        "ref": "line_profiler"
+    },
+    "keyczar": {
+        "ref": "python_keyczar"
+    },
+    "keyedcache": {
+        "ref": "django_keyedcache"
+    },
+    "keystoneclient": {
+        "ref": "python_keystoneclient"
+    },
+    "kickstarter": {
+        "ref": "kickstart"
+    },
+    "krbv": {
+        "ref": "krbV"
+    },
+    "kss": {
+        "ref": "kss.core"
+    },
+    "kuyruk": {
+        "ref": "Kuyruk"
+    },
+    "langconv": {
+        "ref": "AdvancedLangConv"
+    },
+    "lava": {
+        "ref": "lava_utils_interface"
+    },
+    "lazr": {
+        "ref": "lazr.authentication"
+    },
+    "ldaplib": {
+        "ref": "adpasswd"
+    },
+    "ldif": {
+        "ref": "python_ldap"
+    },
+    "lib2or3": {
+        "ref": "2or3"
+    },
+    "lib3to2": {
+        "ref": "3to2"
+    },
+    "libaito": {
+        "ref": "Aito"
+    },
+    "libbe": {
+        "ref": "bugs_everywhere"
+    },
+    "libbucket": {
+        "ref": "bucket"
+    },
+    "libcloud": {
+        "ref": "apache_libcloud"
+    },
+    "libgenerateDS": {
+        "ref": "generateDS"
+    },
+    "libmproxy": {
+        "ref": "mitmproxy"
+    },
+    "libsvm": {
+        "ref": "7lk_ocr_deploy"
+    },
+    "lisa": {
+        "ref": "lisa_server"
+    },
+    "llama_index": {
+        "ref": "llama-index"
+    },
+    "load_dotenv": {
+        "ref": "dotenv"
+    },
+    "loadingandsaving": {
+        "ref": "aspose_words_java_for_python"
+    },
+    "locust": {
+        "ref": "locustio"
+    },
+    "logbook": {
+        "ref": "Logbook"
+    },
+    "logentries": {
+        "ref": "buildbot_status_logentries"
+    },
+    "logilab": {
+        "ref": "logilab_mtconverter"
+    },
+    "magic": {
+        "ref": "python_magic"
+    },
+    "mako": {
+        "ref": "Mako"
+    },
+    "manifestparser": {
+        "ref": "ManifestDestiny"
+    },
+    "marionette": {
+        "ref": "marionette_client"
+    },
+    "markdown": {
+        "ref": "Markdown"
+    },
+    "marks": {
+        "ref": "pytest_marks"
+    },
+    "markupsafe": {
+        "ref": "MarkupSafe"
+    },
+    "marshmallow_sqlalchemy": {
+        "ref": "marshmallow-sqlalchemy"
+    },
+    "matlab": {
+        "ref": "matlabengine"
+    },
+    "mavnative": {
+        "ref": "pymavlink"
+    },
+    "mecab": {
+        "ref": "mecab-python"
+    },
+    "mega": {
+        "ref": "python-mega"
+    },
+    "memcache": {
+        "ref": "python-memcached"
+    },
+    "messaging": {
+        "ref": "python-messaging"
+    },
+    "metacomm": {
+        "ref": "AllPairs"
+    },
+    "metaphone": {
+        "ref": "Metafone"
+    },
+    "metlog": {
+        "ref": "metlog_py"
+    },
+    "mezzanine": {
+        "ref": "Mezzanine"
+    },
+    "microbit": {
+        "ref": "yotta"
+    },
+    "migrate": {
+        "ref": "sqlalchemy_migrate"
+    },
+    "mimeparse": {
+        "ref": "python_mimeparse"
+    },
+    "minitage": {
+        "ref": "minitage.paste"
+    },
+    "missingdrawables": {
+        "ref": "android_missingdrawables"
+    },
+    "mkrst_themes": {
+        "ref": "2lazy2rest"
+    },
+    "mockredis": {
+        "ref": "mockredispy"
+    },
+    "modargs": {
+        "ref": "python_modargs"
+    },
+    "model_utils": {
+        "ref": "django_model_utils"
+    },
+    "models": {
+        "ref": "asposebarcode"
+    },
+    "moksha": {
+        "ref": "moksha.common"
+    },
+    "moneyed": {
+        "ref": "py_moneyed"
+    },
+    "mongoalchemy": {
+        "ref": "MongoAlchemy"
+    },
+    "monthdelta": {
+        "ref": "MonthDelta"
+    },
+    "mopidy": {
+        "ref": "Mopidy"
+    },
+    "mopytools": {
+        "ref": "MoPyTools"
+    },
+    "more_itertools": {
+        "ref": "more-itertools"
+    },
+    "mosquitto": {
+        "ref": "paho-mqtt"
+    },
+    "mpd": {
+        "ref": "python-mpd2"
+    },
+    "mptt": {
+        "ref": "django_mptt"
+    },
+    "mpv": {
+        "ref": "python-mpv"
+    },
+    "mrbob": {
+        "ref": "mr.bob"
+    },
+    "msgpack": {
+        "ref": "msgpack_python"
+    },
+    "multipart": {
+        "ref": "python-multipart"
+    },
+    "multipart_reader": {
+        "ref": "multipart-reader"
+    },
+    "mutations": {
+        "ref": "aino_mutations"
+    },
+    "mws": {
+        "ref": "amazon_mws"
+    },
+    "mysql": {
+        "ref": "mysql-connector-python"
+    },
+    "mysql.connector": {
+        "ref": "mysql-connector-python"
+    },
+    "mysqldb": {
+        "ref": "mysqlclient"
+    },
+    "native_tags": {
+        "ref": "django_native_tags"
+    },
+    "naturaltoken": {
+        "ref": "ntlk"
+    },
+    "ndg": {
+        "ref": "ndg_httpsclient"
+    },
+    "nereid": {
+        "ref": "trytond_nereid"
+    },
+    "nested": {
+        "ref": "baojinhuan"
+    },
+    "nester": {
+        "ref": "Amauri"
+    },
+    "nomad": {
+        "ref": "python-nomad"
+    },
+    "nova": {
+        "ref": "python-novaclient"
+    },
+    "novaclient": {
+        "ref": "python_novaclient"
+    },
+    "oauth2_provider": {
+        "ref": "alauda_django_oauth"
+    },
+    "oauth2client": {
+        "ref": "oauth2client"
+    },
+    "obelisk": {
+        "ref": "obelisk-py"
+    },
+    "objc": {
+        "ref": "pyobjc"
+    },
+    "odf": {
+        "ref": "odfpy"
+    },
+    "ometa": {
+        "ref": "Parsley"
+    },
+    "openerp": {
+        "ref": "openerp-web"
+    },
+    "openid": {
+        "ref": "python_openid"
+    },
+    "opensearchsdk": {
+        "ref": "ali_opensearch"
+    },
+    "openssl": {
+        "ref": "pyopenssl"
+    },
+    "osgeo": {
+        "ref": "gdal"
+    },
+    "oslo_i18n": {
+        "ref": "oslo.i18n"
+    },
+    "oslo_serialization": {
+        "ref": "oslo.serialization"
+    },
+    "oslo_utils": {
+        "ref": "oslo.utils"
+    },
+    "oss": {
+        "ref": "alioss"
+    },
+    "output": {
+        "ref": "cashew"
+    },
+    "owslib": {
+        "ref": "OWSLib"
+    },
+    "paho": {
+        "ref": "paho-mqtt"
+    },
+    "paho.mqtt": {
+        "ref": "paho-mqtt"
+    },
+    "paho.mqtt.client": {
+        "ref": "paho-mqtt"
+    },
+    "paho.mqtt.publish": {
+        "ref": "paho-mqtt"
+    },
+    "paho.mqtt.subscribe": {
+        "ref": "paho-mqtt"
+    },
+    "paintstore": {
+        "ref": "django_paintstore"
+    },
+    "parler": {
+        "ref": "django_parler"
+    },
+    "paste": {
+        "ref": "PasteScript"
+    },
+    "path": {
+        "ref": "pathpy"
+    },
+    "patricia": {
+        "ref": "patricia-trie"
+    },
+    "paver": {
+        "ref": "Paver"
+    },
+    "peak": {
+        "ref": "ProxyTypes"
+    },
+    "picasso": {
+        "ref": "anderson.picasso"
+    },
+    "picklefield": {
+        "ref": "django-picklefield"
+    },
+    "pil": {
+        "ref": "pillow"
+    },
+    "pilot": {
+        "ref": "BigJob"
+    },
+    "pipeline": {
+        "ref": "django-pipeline"
+    },
+    "pivotal": {
+        "ref": "pivotal_py"
+    },
+    "plivoxml": {
+        "ref": "plivo"
+    },
+    "plone": {
+        "ref": "plone.alterego"
+    },
+    "plonetheme": {
+        "ref": "plonetheme.barceloneta"
+    },
+    "png": {
+        "ref": "pypng"
+    },
+    "polymorphic": {
+        "ref": "django_polymorphic"
+    },
+    "postmark": {
+        "ref": "python_postmark"
+    },
+    "powerprompt": {
+        "ref": "bash_powerprompt"
+    },
+    "pptx": {
+        "ref": "python-pptx"
+    },
+    "prefetch": {
+        "ref": "django-prefetch"
+    },
+    "printList": {
+        "ref": "AndrewList"
+    },
+    "progressbar": {
+        "ref": "progressbar2"
+    },
+    "provider": {
+        "ref": "django_oauth2_provider"
+    },
+    "puresasl": {
+        "ref": "pure_sasl"
+    },
+    "pwiz": {
+        "ref": "peewee"
+    },
+    "py7zlib": {
+        "ref": "pylzma"
+    },
+    "pyAMI": {
+        "ref": "pyAMI_core"
+    },
+    "pyarsespyder": {
+        "ref": "arsespyder"
+    },
+    "pyasdf": {
+        "ref": "asdf"
+    },
+    "pyaspell": {
+        "ref": "aspell_python_ctypes"
+    },
+    "pybb": {
+        "ref": "pybbm"
+    },
+    "pybloomfilter": {
+        "ref": "pybloomfiltermmap"
+    },
+    "pyccuracy": {
+        "ref": "Pyccuracy"
+    },
+    "pyck": {
+        "ref": "PyCK"
+    },
+    "pycrfsuite": {
+        "ref": "python_crfsuite"
+    },
+    "pydispatch": {
+        "ref": "PyDispatcher"
+    },
+    "pygame": {
+        "ref": "pygame-ce"
+    },
+    "pygeolib": {
+        "ref": "pygeocoder"
+    },
+    "pygments": {
+        "ref": "Pygments"
+    },
+    "pygraph": {
+        "ref": "python_graph_core"
+    },
+    "pyjon": {
+        "ref": "pyjon.utils"
+    },
+    "pyjsonrpc": {
+        "ref": "python_jsonrpc"
+    },
+    "pykka": {
+        "ref": "Pykka"
+    },
+    "pylogo": {
+        "ref": "PyLogo"
+    },
+    "pylons": {
+        "ref": "adhocracy_Pylons"
+    },
+    "pymagic": {
+        "ref": "libmagic"
+    },
+    "pymycraawler": {
+        "ref": "Amalwebcrawler"
+    },
+    "pynma": {
+        "ref": "AbakaffeNotifier"
+    },
+    "pyphen": {
+        "ref": "Pyphen"
+    },
+    "pyrimaa": {
+        "ref": "AEI"
+    },
+    "pysideuic": {
+        "ref": "PySide"
+    },
+    "pysqlite2": {
+        "ref": "adhocracy_pysqlite"
+    },
+    "pysynth_samp": {
+        "ref": "PySynth"
+    },
+    "pythongettext": {
+        "ref": "python_gettext"
+    },
+    "pythonjsonlogger": {
+        "ref": "python_json_logger"
+    },
+    "pyutilib": {
+        "ref": "PyUtilib"
+    },
+    "pyximport": {
+        "ref": "Cython"
+    },
+    "qs": {
+        "ref": "qserve"
+    },
+    "quadtree": {
+        "ref": "python_geohash"
+    },
+    "quickapi": {
+        "ref": "django_quickapi"
+    },
+    "quickunit": {
+        "ref": "nose_quickunit"
+    },
+    "rackdiag": {
+        "ref": "nwdiag"
+    },
+    "radical": {
+        "ref": "radical.pilot"
+    },
+    "readability": {
+        "ref": "readability_lxml"
+    },
+    "readline": {
+        "ref": "gnureadline"
+    },
+    "recaptcha_works": {
+        "ref": "django_recaptcha_works"
+    },
+    "registration": {
+        "ref": "django-registration"
+    },
+    "relstorage": {
+        "ref": "RelStorage"
+    },
+    "reportapi": {
+        "ref": "django_reportapi"
+    },
+    "requests": {
+        "ref": "Requests"
+    },
+    "requirements": {
+        "ref": "requirements_parser"
+    },
+    "rest_framework": {
+        "ref": "djangorestframework"
+    },
+    "restclient": {
+        "ref": "py_restclient"
+    },
+    "restful_lib": {
+        "ref": "python-rest-client"
+    },
+    "retrial": {
+        "ref": "async_retrial"
+    },
+    "reversion": {
+        "ref": "django_reversion"
+    },
+    "rhaptos2": {
+        "ref": "rhaptos2.common"
+    },
+    "robot": {
+        "ref": "robotframework"
+    },
+    "robots": {
+        "ref": "django_robots"
+    },
+    "rosdep2": {
+        "ref": "rosdep"
+    },
+    "rsbackends": {
+        "ref": "RSFile"
+    },
+    "ruamel": {
+        "ref": "ruamel.base"
+    },
+    "saga": {
+        "ref": "saga_python"
+    },
+    "samtranslator": {
+        "ref": "aws-sam-translator"
+    },
+    "sassutils": {
+        "ref": "libsass"
+    },
+    "sayhi": {
+        "ref": "alex_sayhi"
+    },
+    "scalrtools": {
+        "ref": "scalr"
+    },
+    "scikits": {
+        "ref": "scikits.talkbox"
+    },
+    "scratch": {
+        "ref": "scratchpy"
+    },
+    "screen": {
+        "ref": "pexpect"
+    },
+    "scss": {
+        "ref": "pyScss"
+    },
+    "sdict": {
+        "ref": "dict.sorted"
+    },
+    "sdk_updater": {
+        "ref": "android_sdk_updater"
+    },
+    "securitycenter": {
+        "ref": "pysecuritycenter"
+    },
+    "sekizai": {
+        "ref": "django_sekizai"
+    },
+    "sendfile": {
+        "ref": "pysendfile"
+    },
+    "serial": {
+        "ref": "pyserial"
+    },
+    "setuputils": {
+        "ref": "astor"
+    },
+    "shapefile": {
+        "ref": "pyshp"
+    },
+    "shapely": {
+        "ref": "Shapely"
+    },
+    "shopify": {
+        "ref": "ShopifyAPI"
+    },
+    "sika": {
+        "ref": "ahonya_sika"
+    },
+    "singleton": {
+        "ref": "pysingleton"
+    },
+    "skbio": {
+        "ref": "scikit_bio"
+    },
+    "skimage": {
+        "ref": "scikit-image"
+    },
+    "sklearn": {
+        "ref": "scikit-learn"
+    },
+    "slack": {
+        "ref": "slackclient"
+    },
+    "slugify": {
+        "ref": "unicode_slugify"
+    },
+    "smarkets": {
+        "ref": "smk_python_sdk"
+    },
+    "snappy": {
+        "ref": "ctypes_snappy"
+    },
+    "social-auth": {
+        "ref": "django-social-auth"
+    },
+    "social_auth": {
+        "ref": "django-social-auth"
+    },
+    "socketio": {
+        "ref": "gevent_socketio"
+    },
+    "sockjs": {
+        "ref": "sockjs_tornado"
+    },
+    "socks": {
+        "ref": "pysocks"
+    },
+    "solr": {
+        "ref": "solrpy"
+    },
+    "solution": {
+        "ref": "Solution"
+    },
+    "sorl": {
+        "ref": "sorl_thumbnail"
+    },
+    "south": {
+        "ref": "South"
+    },
+    "sphinx": {
+        "ref": "Sphinx"
+    },
+    "sphinx_pypi_upload": {
+        "ref": "ATD_document"
+    },
+    "sphinxcontrib": {
+        "ref": "sphinxcontrib_programoutput"
+    },
+    "sqlalchemy": {
+        "ref": "SQLAlchemy"
+    },
+    "src": {
+        "ref": "atlas"
+    },
+    "stats_toolkit": {
+        "ref": "bw_stats_toolkit"
+    },
+    "statsd": {
+        "ref": "dogstatsd_python"
+    },
+    "stdnum": {
+        "ref": "python_stdnum"
+    },
+    "stoneagehtml": {
+        "ref": "StoneageHTML"
+    },
+    "storages": {
+        "ref": "django-storages"
+    },
+    "stubout": {
+        "ref": "mox"
+    },
+    "suds": {
+        "ref": "suds_jurko"
+    },
+    "swiftclient": {
+        "ref": "python_swiftclient"
+    },
+    "sx": {
+        "ref": "pisa"
+    },
+    "taggit": {
+        "ref": "django_taggit"
+    },
+    "tasksitter": {
+        "ref": "cerebrod"
+    },
+    "tastypie": {
+        "ref": "django-tastypie"
+    },
+    "teamcity": {
+        "ref": "teamcity_messages"
+    },
+    "telebot": {
+        "ref": "pyTelegramBotAPI"
+    },
+    "telegram": {
+        "ref": "python-telegram-bot"
+    },
+    "tempita": {
+        "ref": "Tempita"
+    },
+    "tenjin": {
+        "ref": "Tenjin"
+    },
+    "termstyle": {
+        "ref": "python_termstyle"
+    },
+    "test": {
+        "ref": "pytabix"
+    },
+    "thclient": {
+        "ref": "treeherder_client"
+    },
+    "threaded_multihost": {
+        "ref": "django_threaded_multihost"
+    },
+    "threecolor": {
+        "ref": "3color_Press"
+    },
+    "tidylib": {
+        "ref": "pytidylib"
+    },
+    "tlw": {
+        "ref": "3lwg"
+    },
+    "toredis": {
+        "ref": "toredis_fork"
+    },
+    "tornado_cors": {
+        "ref": "tornado-cors"
+    },
+    "tornadoredis": {
+        "ref": "tornado_redis"
+    },
+    "tower_cli": {
+        "ref": "ansible_tower_cli"
+    },
+    "tracopt": {
+        "ref": "Trac"
+    },
+    "translation_helper": {
+        "ref": "android_localization_helper"
+    },
+    "treebeard": {
+        "ref": "django_treebeard"
+    },
+    "trytond": {
+        "ref": "trytond_stock"
+    },
+    "tsuru": {
+        "ref": "tsuru_circus"
+    },
+    "tvrage": {
+        "ref": "python_tvrage"
+    },
+    "tw2": {
+        "ref": "tw2.core"
+    },
+    "twisted": {
+        "ref": "Twisted"
+    },
+    "twitter": {
+        "ref": "python-twitter"
+    },
+    "txclib": {
+        "ref": "transifex_client"
+    },
+    "u115": {
+        "ref": "115wangpan"
+    },
+    "unidecode": {
+        "ref": "Unidecode"
+    },
+    "universe": {
+        "ref": "ansible_universe"
+    },
+    "usb": {
+        "ref": "pyusb"
+    },
+    "useless": {
+        "ref": "useless.pipes"
+    },
+    "userpass": {
+        "ref": "auth_userpass"
+    },
+    "utilities": {
+        "ref": "automakesetup.py"
+    },
+    "utkik": {
+        "ref": "aino_utkik"
+    },
+    "uwsgidecorators": {
+        "ref": "uWSGI"
+    },
+    "valentine": {
+        "ref": "ab"
+    },
+    "validate": {
+        "ref": "configobj"
+    },
+    "version": {
+        "ref": "chartio"
+    },
+    "virtualenvapi": {
+        "ref": "ar_virtualenv_api"
+    },
+    "visa": {
+        "ref": "pyvisa"
+    },
+    "vyatta": {
+        "ref": "brocade_plugins"
+    },
+    "watson": {
+        "ref": "td-watson"
+    },
+    "web": {
+        "ref": "web-py"
+    },
+    "webdav": {
+        "ref": "Zope2"
+    },
+    "weblogolib": {
+        "ref": "weblogo"
+    },
+    "webob": {
+        "ref": "WebOb"
+    },
+    "websocket": {
+        "ref": "websocket-client"
+    },
+    "websocket_client": {
+        "ref": "websocket-client"
+    },
+    "webtest": {
+        "ref": "WebTest"
+    },
+    "werkzeug": {
+        "ref": "Werkzeug"
+    },
+    "wheezy": {
+        "ref": "wheezy.caching"
+    },
+    "wikklytext": {
+        "ref": "tiddlywebwiki"
+    },
+    "winreg": {
+        "ref": "future"
+    },
+    "winrm": {
+        "ref": "pywinrm"
+    },
+    "wordpress_xmlrpc": {
+        "ref": "python-wordpress-xmlrpc"
+    },
+    "workflow": {
+        "ref": "Alfred_Workflow"
+    },
+    "wsmeext": {
+        "ref": "WSME"
+    },
+    "wtforms": {
+        "ref": "WTForms"
+    },
+    "wtfpeewee": {
+        "ref": "wtf_peewee"
+    },
+    "xdg": {
+        "ref": "pyxdg"
+    },
+    "xdist": {
+        "ref": "pytest_xdist"
+    },
+    "xmlenc": {
+        "ref": "pysaml2"
+    },
+    "xmlrpc": {
+        "ref": "pies2overrides"
+    },
+    "xmpp": {
+        "ref": "xmpppy"
+    },
+    "xstatic": {
+        "ref": "XStatic_Font_Awesome"
+    },
+    "yaml": {
+        "ref": "pyyaml"
+    },
+    "z3c": {
+        "ref": "z3c.autoinclude"
+    },
+    "zmq": {
+        "ref": "pyzmq"
+    },
+    "zopyx": {
+        "ref": "zopyx.textindexng3"
+    }
+}
