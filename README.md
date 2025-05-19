@@ -28,6 +28,8 @@ To free space, you may:
 
 ## 🛠️  Quick start
 
+### Make sure that you have your local Docker ready before running the system!
+
 ```bash
 # 1. clone & enter
 git clone https://github.com/<your-name>/pllm-interactive.git
